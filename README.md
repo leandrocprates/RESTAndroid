@@ -9,7 +9,7 @@ Desktop Emulador :
 dv985ega8Mo:APA91bEpn3pXR3XdTuEgva4UFAQxyAfrJJCy9rVYenUznf1kgpXh4waTsx9TeArkQNDUvQacH5Ya3dRpHOPAHcD8AraJ5D8XZcs0Ss3iWpH-ox0KL9pN3bbiKXWf4T1m4QSzfGlbhbTQ
 
 
-Enviar Notificacao pela classe Java ou PostMan 
+Enviar Notificacao pela classe Java ou PostMan direto para o FCM Google 
 
 
 https://fcm.googleapis.com/fcm/send
