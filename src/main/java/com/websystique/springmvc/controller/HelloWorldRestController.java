@@ -26,6 +26,9 @@ public class HelloWorldRestController {
  
     @RequestMapping("/hello/{player}")
     public Message message(@PathVariable String player) {//REST Endpoint.
+        
+        System.out.println(player);
+        
          Message msg = new Message(player, "Hello " + player);
         return msg;
     }
