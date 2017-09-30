@@ -1,4 +1,4 @@
-# RESTAndroid
+# RESTAndroid - Modelo de Integração de Serviços Rest Java com Google Firebase Cloud Message  
 
 Fire base cloud message tutorial
 
@@ -8,7 +8,7 @@ Fire base cloud message tutorial
 
 
 
-Desktop Emulador : 
+Obter Token Gerado Pelo FCM no Android : 
 
 dv985ega8Mo:APA91bEpn3pXR3XdTuEgva4UFAQxyAfrJJCy9rVYenUznf1kgpXh4waTsx9TeArkQNDUvQacH5Ya3dRpHOPAHcD8AraJ5D8XZcs0Ss3iWpH-ox0KL9pN3bbiKXWf4T1m4QSzfGlbhbTQ
 
@@ -19,6 +19,10 @@ dv985ega8Mo:APA91bEpn3pXR3XdTuEgva4UFAQxyAfrJJCy9rVYenUznf1kgpXh4waTsx9TeArkQNDU
 https://fcm.googleapis.com/fcm/send
 
 Content Type : application/json
+
+Authorization = Id Obtido no Console do Firebase da sua Aplicação
+to = Token Unico Gerado no Android Pela Instancia di Firebase 
+
 
 Authorization : key=AAAAGYw4hd8:APA91bG_vtOqwjhgXCbtwLltqUJuWSIF_H4ScHybfNhWoJ5JNxEnLKogPwyzfpHZidfn4H95jO88ViSaI7mgJLnm7K9fqrch8Ma-R-pbRaS1slspAum7UmBsa5ljbxJc1EUtDNWRt0CN
 
