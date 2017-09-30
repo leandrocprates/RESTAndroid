@@ -44,7 +44,9 @@ Data Message :
 
 ```
 
+## Serviços Rest Definidos
 
+1. Enviar Notificacao  
 
 http://localhost:8080/RESTAndroid/enviarNotificacao
 
@@ -61,6 +63,7 @@ Content Type : application/json
 
 ```
 
+2. Enviar Mensagem 
 
 http://localhost:8080/RESTAndroid/enviarMensagem
 
