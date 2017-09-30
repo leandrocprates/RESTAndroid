@@ -7,10 +7,14 @@ Fire base cloud message tutorial
 
 
 
-
-Obter Token Gerado Pelo FCM no Android : 
+A - Obter Token Gerado Pelo FCM no Android : 
 
 dv985ega8Mo:APA91bEpn3pXR3XdTuEgva4UFAQxyAfrJJCy9rVYenUznf1kgpXh4waTsx9TeArkQNDUvQacH5Ya3dRpHOPAHcD8AraJ5D8XZcs0Ss3iWpH-ox0KL9pN3bbiKXWf4T1m4QSzfGlbhbTQ
+
+
+B - Obter Chave de Autorização no Console do Firebase: 
+
+![Alt text](FCM_Chave.png?raw=true "Imagem Chave FCM")
 
 
 **Enviar Notificacao pela classe Java ou PostMan direto para o FCM Google:**
@@ -20,8 +24,8 @@ https://fcm.googleapis.com/fcm/send
 
 Content Type : application/json
 
-Authorization = Id Obtido no Console do Firebase da sua Aplicação
-to = Token Unico Gerado no Android Pela Instancia di Firebase 
+1. Authorization = Id Obtido no Console do Firebase da sua Aplicação
+2. to = Token Unico Gerado no Android Pela Instancia di Firebase 
 
 
 Authorization : key=AAAAGYw4hd8:APA91bG_vtOqwjhgXCbtwLltqUJuWSIF_H4ScHybfNhWoJ5JNxEnLKogPwyzfpHZidfn4H95jO88ViSaI7mgJLnm7K9fqrch8Ma-R-pbRaS1slspAum7UmBsa5ljbxJc1EUtDNWRt0CN
