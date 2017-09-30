@@ -24,8 +24,8 @@ https://fcm.googleapis.com/fcm/send
 
 Content Type : application/json
 
-1. Authorization = Id Obtido no Console do Firebase da sua Aplicação
-2. to = Token Unico Gerado no Android Pela Instancia di Firebase 
+1. Authorization :  Id Obtido no Console do Firebase da sua Aplicação, ver figura acima
+2. to :  Token Unico Gerado no Android Pela Instancia di Firebase 
 
 
 Authorization : key=AAAAGYw4hd8:APA91bG_vtOqwjhgXCbtwLltqUJuWSIF_H4ScHybfNhWoJ5JNxEnLKogPwyzfpHZidfn4H95jO88ViSaI7mgJLnm7K9fqrch8Ma-R-pbRaS1slspAum7UmBsa5ljbxJc1EUtDNWRt0CN
