@@ -20,7 +20,7 @@ B - Obter Chave de Autorização no Console do Firebase:
 **Enviar Notificacao pela classe Java ou PostMan direto para o FCM Google:**
 
 1. Authorization :  Id Obtido no Console do Firebase da sua Aplicação, ver figura acima
-2. to :  Token Unico Gerado no Android Pela Instancia di Firebase 
+2. to :  Token Unico Gerado no Android Pela Instancia do Firebase 
 
 
 https://fcm.googleapis.com/fcm/send
