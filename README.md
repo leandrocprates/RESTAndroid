@@ -1,6 +1,5 @@
 # RESTAndroid - Modelo de Integração de Serviços Rest Java com Google Firebase Cloud Message  
 
-Fire base cloud message tutorial
 
 - **Este Serviço foi criado com o objetivo de disparar uma requisicao para o servidor do FCM para enviar Notificacoes e Mensagem de Dados para celulares.**  
 
